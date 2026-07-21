@@ -8,10 +8,10 @@ Sitio HTML estático para enlozado de bañeras en Zona Sur.
 El canonical del index usa exactamente esa URL, sin barra final.
 
 ## WhatsApp
-CTAs: `https://wa.me/549XXXXXXXXXX`
-Número visible: `+54 9 11 XXXXXXXX`
+CTAs: `https://wa.me/5491133161653`
+Número visible: `+54 9 11 3316-1653`
 
-Para cambiarlo, reemplazar `549XXXXXXXXXX` y `+54 9 11 XXXXXXXX` en todos los archivos.
+Para cambiarlo, reemplazar `5491133161653` y `+54 9 11 3316-1653` en todos los archivos.
 
 ## Estructura
 Las landings están como archivos `.html` en la raíz de esta carpeta. No se usan carpetas por landing.

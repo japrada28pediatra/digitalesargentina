@@ -8,9 +8,9 @@ URL pública configurada: `https://digitalesargentina.com/enlozado-baneras/`.
 Para cambiar el dominio, reemplazar en todos los HTML, `sitemap.xml` y `sitemap-index.xml` la base actual por la nueva.
 
 ## WhatsApp
-Los CTAs usan el placeholder `https://wa.me/549XXXXXXXXXX` y el número visible `+54 9 11 XXXXXXXX`.
+Los CTAs usan el placeholder `https://wa.me/5491133161653` y el número visible `+54 9 11 3316-1653`.
 
-Cuando esté confirmado el número real, reemplazar `549XXXXXXXXXX` por el número con código de país y sin signos, y reemplazar `+54 9 11 XXXXXXXX` por el número visible.
+Cuando esté confirmado el número real, reemplazar `5491133161653` por el número con código de país y sin signos, y reemplazar `+54 9 11 3316-1653` por el número visible.
 
 ## Estructura
 Las landings están en la raíz del proyecto como archivos `.html`, no en carpetas.
