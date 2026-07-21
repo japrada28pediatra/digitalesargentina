@@ -11,8 +11,8 @@ https://digitalesargentina.com/servicio-tecnico-vapeadores/
 ## WhatsApp
 
 ```text
-+54 9 11 3610 0629
-https://wa.me/5491136100629
++54 9 11 3958-6600
+https://wa.me/5491139586600
 ```
 
 ## Estructura

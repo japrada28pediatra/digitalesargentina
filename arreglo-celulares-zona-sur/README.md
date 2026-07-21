@@ -7,8 +7,8 @@ Web HTML estática para arreglo de celulares en Florencio Varela, Quilmes y Zona
 Actualmente usa placeholder:
 
 ```text
-https://wa.me/549XXXXXXXXXX
-+54 9 11 XXXXXXXX
+https://wa.me/5493571697334
++54 9 3571 69-7334
 ```
 
 Cuando esté el número real, buscar y reemplazar esos dos valores en todos los archivos.
