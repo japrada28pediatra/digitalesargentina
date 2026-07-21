@@ -1,0 +1,207 @@
+{
+    "date_label": "sábado 11 de julio de 2026",
+    "results": [
+        {
+            "jurisdiction": "La Ciudad",
+            "values": [
+                "6021",
+                "9909",
+                "6914",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "La Provincia",
+            "values": [
+                "4878",
+                "1701",
+                "2596",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Santa Fe",
+            "values": [
+                "1580",
+                "9777",
+                "4073",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Córdoba",
+            "values": [
+                "2833",
+                "6375",
+                "4234",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Entre Ríos",
+            "values": [
+                "4736",
+                "3050",
+                "7069",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Mendoza",
+            "values": [
+                "2210",
+                "2550",
+                "6833",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Santiago",
+            "values": [
+                "1790",
+                "6068",
+                "4548",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Salta",
+            "values": [
+                null,
+                "9280",
+                "6697",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Corrientes",
+            "values": [
+                "0916",
+                "2437",
+                "1800",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Misiones",
+            "values": [
+                "3870",
+                "9437",
+                "4583",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Jujuy",
+            "values": [
+                "3424",
+                "2492",
+                "5075",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Chubut",
+            "values": [
+                "2091",
+                "7250",
+                "1259",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Catamarca",
+            "values": [
+                "9696",
+                "0310",
+                "9390",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Río Negro",
+            "values": [
+                "0052",
+                "6311",
+                "9631",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Formosa",
+            "values": [
+                "8382",
+                "9353",
+                "7310",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Tucumán",
+            "values": [
+                "5030",
+                "3194",
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "La Rioja",
+            "values": [
+                "2081",
+                "0433",
+                "8805",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Chaco",
+            "values": [
+                "7456",
+                "0000",
+                "9036",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "San Luis",
+            "values": [
+                "0640",
+                "8212",
+                "6584",
+                null,
+                null
+            ]
+        },
+        {
+            "jurisdiction": "Neuquén",
+            "values": [
+                "9943",
+                "0263",
+                "0457",
+                null,
+                null
+            ]
+        }
+    ],
+    "updated_at": "2026-07-11T17:24:41-03:00",
+    "source": "https:\/\/notitimba.com\/lots\/"
+}

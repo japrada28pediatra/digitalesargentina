@@ -1,0 +1,2556 @@
+{
+    "updated_at": "2026-07-11T17:24:41-03:00",
+    "source": "https:\/\/notitimba.com\/lots\/",
+    "days": [
+        {
+            "date_label": "viernes 10\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "3617",
+                        "3145",
+                        "9718",
+                        "2152",
+                        "4913"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "0438",
+                        "4258",
+                        "6469",
+                        "5398",
+                        "8242"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "1393",
+                        "1425",
+                        "5872",
+                        "9470",
+                        "5515"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "6348",
+                        "8433",
+                        "0216",
+                        "4987",
+                        "8141"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "5865",
+                        "9504",
+                        "9401",
+                        "1979",
+                        "7247"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "9702",
+                        "4352"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "0350",
+                        "3483",
+                        "1957",
+                        "8326",
+                        "4038"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "2162",
+                        "2519",
+                        "4276",
+                        "9106",
+                        "3080"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "5363",
+                        "9962",
+                        "5527",
+                        "6999"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "0353",
+                        "2387",
+                        "1694",
+                        "7613",
+                        "3729"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "1580",
+                        "1418",
+                        "1707",
+                        "0684",
+                        "1424"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "3710",
+                        "0168",
+                        "5732",
+                        "8915",
+                        "3693"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "5609",
+                        "9820",
+                        "3153",
+                        "3927",
+                        "3203"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "6839",
+                        "8101",
+                        "3235",
+                        "4795",
+                        "8704"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "8922",
+                        "4348",
+                        "6902",
+                        "7534",
+                        "8079"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "3047",
+                        "0042",
+                        "7428"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "0873",
+                        "2819",
+                        "6958",
+                        "3258",
+                        "1129"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "6467",
+                        "1493",
+                        "4597",
+                        "2187",
+                        "0927"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "6802",
+                        "3683",
+                        "3333",
+                        "8084",
+                        "1356"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "2131",
+                        "3744",
+                        "2786",
+                        "2608",
+                        "2052"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0108",
+                        "0237",
+                        "7751",
+                        "0257",
+                        "8940"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "miércoles 08\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "1544",
+                        "5916",
+                        "8716",
+                        "6380",
+                        "6828"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "8732",
+                        "8193",
+                        "3429",
+                        "0750",
+                        "5071"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "7877",
+                        "0359",
+                        "9613",
+                        "8580",
+                        "3980"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "6037",
+                        "5496",
+                        "5204",
+                        "3185",
+                        "8367"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "1605",
+                        "1705",
+                        "2134",
+                        "9595",
+                        "1309"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "8653",
+                        "6575"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "5026",
+                        "7403",
+                        "5642",
+                        "2660",
+                        "8036"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "1348",
+                        "6035",
+                        "6751",
+                        "2203",
+                        "1346"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "9012",
+                        "0043",
+                        "6395",
+                        "2710"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "9699",
+                        "8965",
+                        "4722",
+                        "7923",
+                        "9072"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "2083",
+                        "9360",
+                        "2889",
+                        "4194",
+                        "2613"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "4031",
+                        "6913",
+                        "7316",
+                        "5862",
+                        "2918"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "2178",
+                        "6242",
+                        "8222",
+                        "6961",
+                        "2143"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "6796",
+                        "9074",
+                        "4234",
+                        "1207",
+                        "6827"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "1687",
+                        "0397",
+                        "3830",
+                        "8836",
+                        "3289"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "0865",
+                        "3442",
+                        "5033",
+                        "8355"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "8149",
+                        "4478",
+                        "0178",
+                        "2909",
+                        "1278"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "2297",
+                        "4994",
+                        "1877"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "8449",
+                        "0022",
+                        "2128",
+                        "0978",
+                        "0085"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "4121",
+                        "8191",
+                        "2528",
+                        "1146",
+                        "4306"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "7782",
+                        "6149",
+                        "6857",
+                        "6982",
+                        "5214"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "6408",
+                        "2034",
+                        "1441",
+                        "6342",
+                        "4840"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0002",
+                        "0467",
+                        "0291",
+                        "9208",
+                        "0143"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "martes 07\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "0564",
+                        "2959",
+                        "6970",
+                        "3588",
+                        "8857"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "7957",
+                        "3212",
+                        "0798",
+                        "0422",
+                        "6628"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "9163",
+                        "5400",
+                        "1413",
+                        "8793",
+                        "4673"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "1207",
+                        "8316",
+                        "5263",
+                        "1448",
+                        "3391"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "8037",
+                        "5584",
+                        "8583",
+                        "4843",
+                        "2721"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "6800",
+                        "8971"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "5084",
+                        "5473",
+                        "7125",
+                        "1802",
+                        "2236"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "0392",
+                        "5271",
+                        "5945",
+                        "2641",
+                        "5399"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "3896",
+                        "7479",
+                        "6288",
+                        "3271"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "0994",
+                        "4213",
+                        "2778",
+                        "0505",
+                        "6720"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "1786",
+                        "4841",
+                        "9790",
+                        "3372",
+                        "8102"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "0819",
+                        "1279",
+                        "1355",
+                        "7097",
+                        "7945"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "9217",
+                        "8624",
+                        "2085",
+                        "3195",
+                        "6628"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "5411",
+                        "1583",
+                        "7543",
+                        "4028",
+                        "5128"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "9172",
+                        "6181",
+                        "1986",
+                        "4534",
+                        "6920"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "7402",
+                        "5642",
+                        "3529",
+                        "9457"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "5791",
+                        "4591",
+                        "4441",
+                        "9946",
+                        "3061"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "1899",
+                        "5847",
+                        "3523"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "5604",
+                        "0918",
+                        "5232",
+                        "4869",
+                        "2794"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "0218",
+                        "1365",
+                        "3578",
+                        "2220",
+                        "6492"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "8385",
+                        "3660",
+                        "1113",
+                        "8325",
+                        "8745"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "0067",
+                        "5077",
+                        "3039",
+                        "2592",
+                        "1984"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0209",
+                        "0435",
+                        "4633",
+                        "0073",
+                        "0327"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "lunes 06\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "7056",
+                        "2387",
+                        "6082",
+                        "1625",
+                        "2097"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "4113",
+                        "8059",
+                        "3127",
+                        "9018",
+                        "1409"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "7627",
+                        "8051",
+                        "1450",
+                        "4166",
+                        "7027"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "1932",
+                        "1441",
+                        "3398",
+                        "5521",
+                        "5987"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "3578",
+                        "5343",
+                        "6634",
+                        "9604",
+                        "5714"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "6520",
+                        "2423"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "6609",
+                        "5413",
+                        "6401",
+                        "8408",
+                        "3906"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "5633",
+                        "5750",
+                        "5978",
+                        "0336",
+                        "7661"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "2817",
+                        "9758",
+                        "5048",
+                        "1811"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "3840",
+                        "0880",
+                        "4565",
+                        "4040",
+                        "5821"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "0641",
+                        "1117",
+                        "3556",
+                        "1542",
+                        "4948"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "1423",
+                        "0828",
+                        "5063",
+                        "1568",
+                        "4711"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "6621",
+                        "8624",
+                        "3736",
+                        "5304",
+                        "1693"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "9043",
+                        "3957",
+                        "5472",
+                        "4987",
+                        "8094"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "1534",
+                        "3315",
+                        "5525",
+                        "0852",
+                        "3418"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "7902",
+                        "7363",
+                        "4075",
+                        "5039"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "2151",
+                        "6454",
+                        "1327",
+                        "4064",
+                        "1862"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "8314",
+                        "7896",
+                        "1904"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "5041",
+                        "5558",
+                        "1342",
+                        "9944",
+                        "3110"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "0517",
+                        "7130",
+                        "8467",
+                        "8769",
+                        "6838"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "7679",
+                        "5227",
+                        "4143",
+                        "3848",
+                        "6942"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "6972",
+                        "7358",
+                        "8022",
+                        "3014",
+                        "5604"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0288",
+                        "0284",
+                        "2921",
+                        "9483",
+                        "0455"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "sábado 04\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "3665",
+                        "4426",
+                        "2834",
+                        "2634",
+                        "9216"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "1345",
+                        "1721",
+                        "3515",
+                        "9044",
+                        "3494"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "9858",
+                        "0360",
+                        "3839",
+                        "7539",
+                        "0269"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "6920",
+                        "1539",
+                        "6090",
+                        "4998",
+                        "5269"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "9314",
+                        "6542",
+                        "4573",
+                        "9753",
+                        "9849"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        "9910"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "0387",
+                        "2396",
+                        "4214",
+                        "7363",
+                        "6655"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "5990",
+                        "0388",
+                        "2986",
+                        "6634",
+                        "0708"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "9170",
+                        "6276",
+                        null,
+                        "2786"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "3439",
+                        "7759",
+                        "2157",
+                        "1761",
+                        "7288"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "0545",
+                        "4460",
+                        "0584",
+                        null,
+                        "8966"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "3233",
+                        "6576",
+                        "0919",
+                        "6186",
+                        "0749"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "2283",
+                        "9862",
+                        "5027",
+                        "6028",
+                        "5581"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "3038",
+                        "7445",
+                        "8051",
+                        "3757",
+                        "0175"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "8615",
+                        "9420",
+                        "9910",
+                        "1125",
+                        "8860"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "8077",
+                        "3337",
+                        "0773",
+                        "0578",
+                        "4799"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "3670",
+                        "9278",
+                        "1525"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "4257",
+                        "4804",
+                        "3169",
+                        "5039",
+                        "1841"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "8881",
+                        "0047",
+                        "9078",
+                        "0257",
+                        "7875"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "6772",
+                        "1460",
+                        "6606",
+                        "2628",
+                        "7732"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "9444",
+                        "2344",
+                        "0178",
+                        "6576",
+                        "8397"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0018",
+                        "8784",
+                        "0399",
+                        "0459",
+                        "2208"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "viernes 03\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "5401",
+                        "6138",
+                        "7614",
+                        "5155",
+                        "3405"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "3576",
+                        "9079",
+                        "8238",
+                        "9296",
+                        "8778"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "8144",
+                        "9844",
+                        "4486",
+                        "7692",
+                        "7773"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "9286",
+                        "4167",
+                        "2930",
+                        "2619",
+                        "5865"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "8144",
+                        "8494",
+                        "3676",
+                        "5417",
+                        "5900"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "7187",
+                        "3164"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "1183",
+                        "6677",
+                        "6251",
+                        "7836",
+                        "1459"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "4565",
+                        "1870",
+                        "6469",
+                        "5024",
+                        "6506"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "0963",
+                        "0652",
+                        "6045",
+                        "5040"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "4505",
+                        "1989",
+                        "1253",
+                        "2830",
+                        "1100"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "8489",
+                        "0258",
+                        "0304",
+                        "2312",
+                        "0342"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "4679",
+                        "7606",
+                        "8055",
+                        "3389",
+                        "6597"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "8759",
+                        "6076",
+                        "3349",
+                        "8114",
+                        "7187"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "7425",
+                        "1720",
+                        "2203",
+                        "2354",
+                        "6827"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "2500",
+                        "7415",
+                        "8692",
+                        "0326",
+                        "0078"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "6405",
+                        "8007",
+                        "1807",
+                        "8291"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "3806",
+                        "3234",
+                        "3985",
+                        "4568",
+                        "9679"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "7046",
+                        "1078",
+                        "6803"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "5576",
+                        "0991",
+                        "1677",
+                        "8561",
+                        "1751"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "5196",
+                        "4402",
+                        "8247",
+                        "6223",
+                        "4897"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "8488",
+                        "0268",
+                        "3078",
+                        "5551",
+                        "9680"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "0571",
+                        "8071",
+                        "5746",
+                        "5672",
+                        "4376"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "5241",
+                        "9498",
+                        "0139",
+                        "2455",
+                        "0159"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "jueves 02\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "0772",
+                        "4264",
+                        "1801",
+                        "8723",
+                        "7240"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "2840",
+                        "2737",
+                        "1679",
+                        "9079",
+                        "6663"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "3630",
+                        "3167",
+                        "4249",
+                        "5879",
+                        "6203"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "7558",
+                        "5332",
+                        "2390",
+                        "9552",
+                        "2968"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "8481",
+                        "6335",
+                        "0100",
+                        "4748",
+                        "0472"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "1828",
+                        "7770"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "4296",
+                        "8835",
+                        "0478",
+                        "0462",
+                        "4066"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "1900",
+                        "6754",
+                        "0103",
+                        "6048",
+                        "1946"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "1514",
+                        "2650",
+                        "5450",
+                        "9784"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "3539",
+                        "2046",
+                        "1657",
+                        "0956",
+                        "3559"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "6394",
+                        "9938",
+                        "0185",
+                        "9130",
+                        "1049"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "5925",
+                        "5873",
+                        "4419",
+                        "4995",
+                        "9842"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "6561",
+                        "1131",
+                        "5630",
+                        "1180",
+                        "1264"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "1547",
+                        "2682",
+                        "6543",
+                        "6321",
+                        "9056"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "2044",
+                        "4279",
+                        "5027",
+                        "2884",
+                        "7844"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "3796",
+                        "0897",
+                        "4901",
+                        "4294"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "7164",
+                        "1702",
+                        "0731",
+                        "7803",
+                        "8437"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "0909",
+                        "5536",
+                        "2435"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "9163",
+                        "3855",
+                        "6754",
+                        "1072",
+                        "1693"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "7699",
+                        "0784",
+                        "2743",
+                        "1154",
+                        "3701"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "6101",
+                        "8087",
+                        "5142",
+                        "9218",
+                        "4234"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "8474",
+                        "3456",
+                        "0592",
+                        "0007",
+                        "4202"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0328",
+                        "0428",
+                        "6739",
+                        "0012",
+                        "5055"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "miércoles 01\/07",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "0459",
+                        "4895",
+                        "1681",
+                        "4748",
+                        "8316"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "8806",
+                        "2632",
+                        "7484",
+                        "0272",
+                        "5573"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "1480",
+                        "1072",
+                        "9192",
+                        "6022",
+                        "4602"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "3134",
+                        "7308",
+                        "5485",
+                        "4207",
+                        "2310"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "3580",
+                        "2607",
+                        "1889",
+                        "2956",
+                        "9739"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "1908",
+                        "8457"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "7756",
+                        "7685",
+                        "5757",
+                        "0002",
+                        "2564"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "3546",
+                        "0300",
+                        "8604",
+                        "2277",
+                        "0092"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "8618",
+                        "7544",
+                        "9877",
+                        "4743"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "7515",
+                        "2084",
+                        "2330",
+                        "9026",
+                        "1440"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "2615",
+                        "0568",
+                        "0192",
+                        "2619",
+                        "1033"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "7575",
+                        "6469",
+                        "7696",
+                        "4790",
+                        "1761"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "5695",
+                        "8594",
+                        "9085",
+                        "4272",
+                        "9924"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "8851",
+                        "9640",
+                        "6532",
+                        "9031",
+                        "1981"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "7535",
+                        "5276",
+                        "5465",
+                        "7747",
+                        "4694"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "5082",
+                        "1032",
+                        "4288",
+                        "6169"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "1217",
+                        "8435",
+                        "0671",
+                        "7116",
+                        "5284"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "9950",
+                        "8837",
+                        "8171"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "8670",
+                        "7289",
+                        "5166",
+                        "4314",
+                        "0556"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "6755",
+                        "8226",
+                        "9699",
+                        "0629",
+                        "7729"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "7110",
+                        "7755",
+                        "8370",
+                        "4344",
+                        "7562"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "8926",
+                        "8290",
+                        "5850",
+                        "1378",
+                        "9344"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0344",
+                        "3056",
+                        "0017",
+                        "0497",
+                        "0206"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "martes 30\/06",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "4336",
+                        "9584",
+                        "4311",
+                        "1746",
+                        "1533"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "9383",
+                        "8876",
+                        "7510",
+                        "6778",
+                        "5992"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "3874",
+                        "3275",
+                        "3885",
+                        "1765",
+                        "1413"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "5685",
+                        "9557",
+                        "9872",
+                        "6835",
+                        "2154"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "0777",
+                        "5189",
+                        "4281",
+                        "3480",
+                        "3110"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "4161",
+                        "1142"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "1131",
+                        "4492",
+                        "9999",
+                        "8954",
+                        "3191"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "7851",
+                        "5168",
+                        "5807",
+                        "1148",
+                        "6631"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "1174",
+                        "9216",
+                        "9280",
+                        "7186"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "2553",
+                        "0095",
+                        "2018",
+                        "1442",
+                        "2073"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "2311",
+                        "1239",
+                        "5337",
+                        "8895",
+                        "2369"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "7793",
+                        "0688",
+                        "2030",
+                        "3017",
+                        "3149"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "7672",
+                        "6904",
+                        "4004",
+                        "3860",
+                        "0062"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "1520",
+                        "7182",
+                        "2790",
+                        "3878",
+                        "7170"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "9578",
+                        "6700",
+                        "0601",
+                        "3280",
+                        "8941"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "8131",
+                        "6745",
+                        "0105",
+                        "2338"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "2377",
+                        "1063",
+                        "9840",
+                        "5513",
+                        "7602"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "9074",
+                        "2839",
+                        "3097"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "9142",
+                        "5495",
+                        "8561",
+                        "0450",
+                        "1691"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "2823",
+                        "3848",
+                        "9683",
+                        "7470",
+                        "3913"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "8900",
+                        "0334",
+                        "8300",
+                        "0614",
+                        "7665"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "4336",
+                        "9584",
+                        "7446",
+                        "3771",
+                        "2101"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0430",
+                        "0050",
+                        "6430",
+                        "8276",
+                        "3545"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "date_label": "lunes 29\/06",
+            "results": [
+                {
+                    "jurisdiction": "La Ciudad",
+                    "values": [
+                        "3942",
+                        "3445",
+                        "9665",
+                        "4288",
+                        "9477"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Provincia",
+                    "values": [
+                        "1760",
+                        "7497",
+                        "7215",
+                        "9715",
+                        "8347"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Fe",
+                    "values": [
+                        "8274",
+                        "0437",
+                        "4433",
+                        "1190",
+                        "0705"
+                    ]
+                },
+                {
+                    "jurisdiction": "Córdoba",
+                    "values": [
+                        "5605",
+                        "6108",
+                        "4063",
+                        "9011",
+                        "3319"
+                    ]
+                },
+                {
+                    "jurisdiction": "Entre Ríos",
+                    "values": [
+                        "6603",
+                        "9350",
+                        "6315",
+                        "0561",
+                        "6128"
+                    ]
+                },
+                {
+                    "jurisdiction": "Montevideo",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        "9148",
+                        "9315"
+                    ]
+                },
+                {
+                    "jurisdiction": "Mendoza",
+                    "values": [
+                        "1279",
+                        "4057",
+                        "3459",
+                        "2907",
+                        "6515"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santiago",
+                    "values": [
+                        "2865",
+                        "7075",
+                        "3773",
+                        "6279",
+                        "9689"
+                    ]
+                },
+                {
+                    "jurisdiction": "Salta",
+                    "values": [
+                        null,
+                        "0582",
+                        "9784",
+                        "1408",
+                        "1694"
+                    ]
+                },
+                {
+                    "jurisdiction": "Corrientes",
+                    "values": [
+                        "5591",
+                        "7228",
+                        "7299",
+                        "7801",
+                        "5421"
+                    ]
+                },
+                {
+                    "jurisdiction": "Misiones",
+                    "values": [
+                        "4660",
+                        "7509",
+                        "1873",
+                        "6518",
+                        "0306"
+                    ]
+                },
+                {
+                    "jurisdiction": "Jujuy",
+                    "values": [
+                        "0744",
+                        "8234",
+                        "8382",
+                        "8744",
+                        "1543"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chubut",
+                    "values": [
+                        "5281",
+                        "6490",
+                        "7105",
+                        "5978",
+                        "7116"
+                    ]
+                },
+                {
+                    "jurisdiction": "Catamarca",
+                    "values": [
+                        "4661",
+                        "7375",
+                        "5977",
+                        "0758",
+                        "1192"
+                    ]
+                },
+                {
+                    "jurisdiction": "Río Negro",
+                    "values": [
+                        "2466",
+                        "8170",
+                        "4221",
+                        "8736",
+                        "1189"
+                    ]
+                },
+                {
+                    "jurisdiction": "Santa Cruz",
+                    "values": [
+                        null,
+                        "1735",
+                        "8834",
+                        "6972",
+                        "3547"
+                    ]
+                },
+                {
+                    "jurisdiction": "Formosa",
+                    "values": [
+                        "7413",
+                        "1031",
+                        "9625",
+                        "4865",
+                        "1347"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Juan",
+                    "values": [
+                        null,
+                        null,
+                        "7869",
+                        "0967",
+                        "8513"
+                    ]
+                },
+                {
+                    "jurisdiction": "Tucumán",
+                    "values": [
+                        "3026",
+                        "0668",
+                        "1008",
+                        "9242",
+                        "4756"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Rioja",
+                    "values": [
+                        "1190",
+                        "4202",
+                        "2086",
+                        "3719",
+                        "5007"
+                    ]
+                },
+                {
+                    "jurisdiction": "Chaco",
+                    "values": [
+                        "1526",
+                        "1187",
+                        "6043",
+                        "5722",
+                        "7061"
+                    ]
+                },
+                {
+                    "jurisdiction": "San Luis",
+                    "values": [
+                        "4345",
+                        "2860",
+                        "0017",
+                        "4420",
+                        "2134"
+                    ]
+                },
+                {
+                    "jurisdiction": "La Pampa",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                {
+                    "jurisdiction": "Neuquén",
+                    "values": [
+                        "0311",
+                        "1639",
+                        "0299",
+                        "4273",
+                        "0080"
+                    ]
+                },
+                {
+                    "jurisdiction": "T. del fuego",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[Jan 17 16:24:22] 
+[Jan 17 16:24:22] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.14==
+[Jan 17 16:24:22] ----------------------------------------------------
+[Jan 17 16:24:22] Installer bootstrap start
+[Jan 17 16:24:22] Manual extract found so not going to extract dup-installer dir
+[Jan 17 16:24:22] EXTRACT dup-installer dir
+[Jan 17 16:24:22] Successfully deleted the file /home/u553593952/domains/digitalesargentina.com/public_html/dup-installer/dup-installer-log__[HASH].txt
+[Jan 17 16:24:22] NOTICE: Didn't need to extract the installer.
+[Jan 17 16:24:22] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$archive is deprecated [CODE:8192|FILE:/home/u553593952/domains/digitalesargentina.com/public_html/installer.php|LINE:530]
+[Jan 17 16:24:22] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$bootloader is deprecated [CODE:8192|FILE:/home/u553593952/domains/digitalesargentina.com/public_html/installer.php|LINE:531]
+[Jan 17 16:24:22] Set permissions of dup-installer<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/addons<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/assets<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/classes<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/ctrls<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/favicon<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/libs<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/src<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/templates<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/vendor<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/.user.ini<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-database__[HASH].sql<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-installer-csrf__[HASH].txt<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-installer-notices__[HASH].json<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-params__[HASH].json<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/index.php<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/main.installer.php<br/>
+[Jan 17 16:24:22] Set permissions of dup-installer/php_error__[HASH].log<br/>
+[Jan 17 16:24:22] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://digitalesargentina.com/dup-installer/main.installer.php
